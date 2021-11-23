@@ -6,8 +6,13 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
+<<<<<<< HEAD
 <body>
 <!--这是一个注释-->
+=======
+
+<!--这是一个111111注释-->
+>>>>>>> branch 'master' of git@github.com:xiezhirui/mwp.git
 <%!
 	int x,y=60,z;
 	String name="John";
